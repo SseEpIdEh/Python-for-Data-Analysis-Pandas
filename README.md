@@ -1,7 +1,7 @@
 # Python-for-Data-Analysis-Pandas
 
 In this section of the course we will learn how to use pandas for data analysis. 
-You can think of pandas as an extremely powerful version of Excel, with a lot more features. In this section of the course, you should go through the notebooks in this order:
+You can think of pandas as an extremely powerful version of Excel, with a lot more features. In this section of the course, you should go through the folders with the given name in this order:
 
 1.Introduction to Pandas
 
